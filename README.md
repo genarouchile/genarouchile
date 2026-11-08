@@ -14,6 +14,8 @@
 
 ## 👋 About Me
 
+<img src="https://img.shields.io/badge/—-D00000?style=flat-square" alt="red accent">
+
 <table>
 <tr>
 <td width="60%" valign="middle">
@@ -31,6 +33,8 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 ## 🎯 Research Areas
 
+<img src="https://img.shields.io/badge/—-DC2F02?style=flat-square" alt="orange accent">
+
 - **Envejecimiento y cuidados:** dependencia funcional, cuidados y protección social.
 - **Evaluación de políticas públicas:** diseño, implementación y evaluación de impacto.
 - **Métodos cuantitativos:** modelamiento estadístico, análisis multivariado e inferencia causal.
@@ -39,11 +43,15 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 ## 🎓 Academic Background
 
+<img src="https://img.shields.io/badge/—-F48C06?style=flat-square" alt="orange accent">
+
 - **Doctor en Sociología** — Universidad Alberto Hurtado.
 - **Magíster en Sociología** — Pontificia Universidad Católica de Chile.
 - **Sociólogo** — Universidad de Chile.
 
 ## 🌱 Currently Working On
+
+<img src="https://img.shields.io/badge/—-FFBA08?style=flat-square" alt="yellow accent">
 
 - Investigación sobre dependencia funcional y cuidados de personas mayores en Chile.
 - Aplicaciones de econometría espacial y análisis territorial.
@@ -51,6 +59,8 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 - Análisis reproducibles y visualización de datos con R y Quarto.
 
 ## 🧰 Tech Stack
+
+<img src="https://img.shields.io/badge/—-DC2F02?style=flat-square" alt="orange accent">
 
 **Statistical analysis & programming**
 
@@ -72,6 +82,8 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 ## 🚀 Featured Projects
 
+<img src="https://img.shields.io/badge/—-D00000?style=flat-square" alt="red accent">
+
 **Research on Ageing & Care**  
 Investigación cuantitativa y territorial sobre dependencia, cuidados y personas mayores en Chile.  
 [Explorar mis repositorios →](https://github.com/genarouchile?tab=repositories)
@@ -85,6 +97,8 @@ Proyectos, publicaciones, cursos y trayectoria profesional.
 [Visitar mi sitio académico →](https://genarouchile.github.io/)
 
 ## 📊 GitHub
+
+<img src="https://img.shields.io/badge/—-FAA307?style=flat-square" alt="yellow accent">
 
 <div align="center">
   <a href="https://github.com/genarouchile?tab=repositories">
