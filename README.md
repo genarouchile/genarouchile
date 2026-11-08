@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/anime-banner.png" width="100%" alt="Anime banner for Genaro César Marileo Millán">
+
+<br>
+
 # GENARO CÉSAR MARILEO MILLÁN
 
 ### SOCIÓLOGO · MÉTODOS CUANTITATIVOS · POLÍTICAS PÚBLICAS
