@@ -91,7 +91,7 @@ Investigación cuantitativa y territorial sobre dependencia, cuidados y personas
 
 **Public Policy Evaluation**  
 Diseño, implementación, indicadores y evaluación de programas y políticas públicas.  
-[Explorar mis repositorios →](https://github.com/genarouchile?tab=repositories)
+[Explore my repositories →](https://github.com/genarouchile?tab=repositories)
 
 **Academic Portfolio**  
 Proyectos, publicaciones, cursos y trayectoria profesional.  
