@@ -14,7 +14,6 @@
 
 ## 👋 About Me
 
-<img src="https://img.shields.io/badge/—-D00000?style=flat-square" alt="red accent">
 
 <table>
 <tr>
@@ -26,7 +25,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 </td>
 <td width="40%" valign="middle" align="center">
-  <img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/about-side.jpg" width="100%" alt="Ilustración japonesa del monte Fuji, pagoda y cerezos en flor">
+  <img src="./about-side.jpg" width="100%" alt="Ilustración japonesa del monte Fuji y una pagoda al atardecer">
 </td>
 </tr>
 </table>
