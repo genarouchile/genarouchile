@@ -7,14 +7,14 @@
 ### SOCIÓLOGO · MÉTODOS CUANTITATIVOS · POLÍTICAS PÚBLICAS
 
 <p>
-  <a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO_ACADÉMICO-00C2D1?style=for-the-badge&logo=quarto&logoColor=07131F" alt="Portafolio académico"></a>
-  <a href="https://github.com/genarouchile"><img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO_ACADÉMICO-FFBA08?style=for-the-badge&logo=quarto&logoColor=03071E" alt="Portafolio académico"></a>
+  <a href="https://github.com/genarouchile"><img src="https://img.shields.io/badge/GITHUB-6A040F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/INVESTIGACIÓN_SOCIAL-FF5C8A?style=flat-square" alt="Investigación social">
-  <img src="https://img.shields.io/badge/ANÁLISIS_ESTADÍSTICO-00B8A9?style=flat-square" alt="Análisis estadístico">
-  <img src="https://img.shields.io/badge/ANÁLISIS_TERRITORIAL-FF9F43?style=flat-square" alt="Análisis territorial">
+  <img src="https://img.shields.io/badge/INVESTIGACIÓN_SOCIAL-9D0208?style=flat-square&logoColor=white" alt="Investigación social">
+  <img src="https://img.shields.io/badge/ANÁLISIS_ESTADÍSTICO-E85D04?style=flat-square&logoColor=white" alt="Análisis estadístico">
+  <img src="https://img.shields.io/badge/ANÁLISIS_TERRITORIAL-FAA307?style=flat-square&logoColor=03071E" alt="Análisis territorial">
 </p>
 
 </div>
@@ -52,18 +52,18 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 **ANÁLISIS Y PROGRAMACIÓN**
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/SPSS-174A8B?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
+<img src="https://img.shields.io/badge/R-03071E?style=for-the-badge&logo=r&logoColor=FFBA08" alt="R">
+<img src="https://img.shields.io/badge/Python-370617?style=for-the-badge&logo=python&logoColor=FFBA08" alt="Python">
+<img src="https://img.shields.io/badge/SQL-6A040F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/SPSS-9D0208?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
 
 **INVESTIGACIÓN Y DESARROLLO**
 
-<img src="https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto">
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo= Posit&logoColor=white" alt="RStudio">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
+<img src="https://img.shields.io/badge/Quarto-DC2F02?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto">
+<img src="https://img.shields.io/badge/RStudio-E85D04?style=for-the-badge&logo=posit&logoColor=03071E" alt="RStudio">
+<img src="https://img.shields.io/badge/Git-F48C06?style=for-the-badge&logo=git&logoColor=03071E" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-370617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/QGIS-6A040F?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
 
 </div>
 
@@ -97,13 +97,13 @@ Código, herramientas y materiales de trabajo disponibles en GitHub.
 <div align="center">
 
 <a href="https://github.com/genarouchile?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIOS-Explorar-00B8A9?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios">
+  <img src="https://img.shields.io/badge/REPOSITORIOS-Explorar-DC2F02?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios">
 </a>
 <a href="https://github.com/genarouchile?tab=stars">
-  <img src="https://img.shields.io/badge/PROYECTOS_GUARDADOS-Ver_estrellas-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver estrellas">
+  <img src="https://img.shields.io/badge/PROYECTOS_GUARDADOS-Ver_estrellas-9D0208?style=for-the-badge&logo=github&logoColor=white" alt="Ver estrellas">
 </a>
-<a href="https://github.com/genarouchile">
-  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=FF5C8A&label=VISITAS+AL+PERFIL" alt="Visitas al perfil">
+<a href="https://komarev.com/ghpvc/?username=genarouchile">
+  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=D00000&label=VISITAS+AL+PERFIL" alt="Visitas al perfil">
 </a>
 
 </div>
