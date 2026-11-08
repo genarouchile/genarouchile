@@ -2,55 +2,45 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/anime-banner.png" width="100%" alt="Anime banner for Genaro César Marileo Millán">
+<img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/anime-banner.png" width="100%" alt="Anime cover">
 
 <br>
 
-# GENARO CÉSAR MARILEO MILLÁN
+### GENARO CÉSAR MARILEO MILLÁN
+**SOCIOLOGIST · QUANTITATIVE METHODS · PUBLIC POLICY**
 
-### SOCIÓLOGO · MÉTODOS CUANTITATIVOS · POLÍTICAS PÚBLICAS
+<a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/ACADEMIC_WEBSITE-FFBA08?style=for-the-badge&logo=quarto&logoColor=03071E" alt="Academic website"></a>
+<a href="https://github.com/genarouchile?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-D00000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 
-<p>
-  <a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/ACADEMIC_PORTFOLIO-FFBA08?style=for-the-badge&logo=quarto&logoColor=03071E" alt="Academic portfolio"></a>
-  <a href="https://github.com/genarouchile"><img src="https://img.shields.io/badge/GITHUB-6A040F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SOCIAL_RESEARCH-9D0208?style=flat-square&logoColor=white" alt="Social research">
-  <img src="https://img.shields.io/badge/STATISTICAL_ANALYSIS-E85D04?style=flat-square&logoColor=white" alt="Statistical analysis">
-  <img src="https://img.shields.io/badge/SPATIAL_ANALYSIS-FAA307?style=flat-square&logoColor=03071E" alt="Spatial analysis">
-</p>
+<img src="https://img.shields.io/badge/SOCIAL_RESEARCH-6A040F?style=flat-square" alt="Social research">
+<img src="https://img.shields.io/badge/STATISTICAL_ANALYSIS-DC2F02?style=flat-square" alt="Statistical analysis">
+<img src="https://img.shields.io/badge/SPATIAL_ANALYSIS-FAA307?style=flat-square&logoColor=03071E" alt="Spatial analysis">
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## 👋 About Me
 
-## 👨‍🎓 Profile
+Soy sociólogo de la **Universidad de Chile**, Magíster en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
 
-Sociólogo de la **Universidad de Chile**, Magíster en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
+Mi especialidad profesional y docente son los **métodos cuantitativos avanzados**. Trabajo en análisis estadístico aplicado, investigación social y evaluación de políticas públicas, integrando herramientas computacionales y análisis territorial.
 
-Mi especialidad profesional y docente son los **métodos cuantitativos avanzados**. Mi trabajo integra análisis estadístico, herramientas computacionales e investigación aplicada para estudiar problemas sociales y contribuir al diseño y evaluación de políticas públicas.
+## 🎯 Research Interests
 
-</td>
-<td width="42%" valign="top">
+- **Quantitative Methods:** modelamiento estadístico, análisis multivariado e inferencia causal.
+- **Impact Evaluation:** diseño y evaluación de programas y políticas públicas.
+- **Spatial Econometrics:** autocorrelación espacial, análisis territorial y cartografía.
+- **Social Research:** educación, envejecimiento, cuidados y protección social.
 
-## 🔎 Research Areas
+## 🌱 Currently Working On
 
-- 📊 Métodos cuantitativos y modelamiento estadístico
-- 🎯 Evaluación de impacto y políticas públicas
-- 🗺️ Econometría y análisis espacial
-- 🧩 Educación e innovación curricular
-- 🤝 Envejecimiento, cuidados y protección social
+- Investigación sobre dependencia, cuidados y personas mayores en Chile.
+- Aplicaciones de econometría espacial y análisis territorial.
+- Diseños de evaluación de impacto y estrategias de inferencia causal.
+- Desarrollo de análisis reproducibles y productos de investigación con R y Quarto.
 
-</td>
-</tr>
-</table>
-
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -61,7 +51,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 <img src="https://img.shields.io/badge/SQL-6A040F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/SPSS-9D0208?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
 
-**RESEARCH & DEVELOPMENT**
+**RESEARCH, VISUALIZATION & DEVELOPMENT**
 
 <img src="https://img.shields.io/badge/Quarto-DC2F02?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto">
 <img src="https://img.shields.io/badge/RStudio-E85D04?style=for-the-badge&logo=posit&logoColor=03071E" alt="RStudio">
@@ -71,43 +61,33 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 </div>
 
-## 📌 Explore My Work
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description |
+|:--|:--|
+| **Academic Portfolio** | Investigaciones, proyectos, publicaciones y trayectoria profesional. [Explore →](https://genarouchile.github.io/) |
+| **Research & Data Repositories** | Código, análisis y materiales disponibles en GitHub. [Browse repositories →](https://github.com/genarouchile?tab=repositories) |
 
-### 🌐 Academic Portfolio
+## 📊 GitHub Statistics
 
-Investigaciones, proyectos, publicaciones, cursos y trayectoria profesional.
+<div align="center">
 
-[**Visit genarouchile.github.io →**](https://genarouchile.github.io/)
+<a href="https://github.com/genarouchile">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=genarouchile&show_icons=true&hide_border=true&bg_color=03071E&title_color=FFBA08&text_color=FFFFFF&icon_color=DC2F02&ring_color=F48C06" alt="GitHub profile statistics">
+</a>
+<a href="https://github.com/genarouchile">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genarouchile&layout=compact&hide_border=true&bg_color=03071E&title_color=FFBA08&text_color=FFFFFF" alt="Most used languages">
+</a>
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Repositories
-
-Código, herramientas y materiales de trabajo disponibles en GitHub.
-
-[**Explore my repositories →**](https://github.com/genarouchile?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Activity
+</div>
 
 <div align="center">
 
 <a href="https://github.com/genarouchile?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-Explore-DC2F02?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
-</a>
-<a href="https://github.com/genarouchile?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED_PROJECTS-View_stars-9D0208?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-DC2F02?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
 </a>
 <a href="https://komarev.com/ghpvc/?username=genarouchile">
-  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=D00000&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=6A040F&label=PROFILE+VIEWS" alt="Profile views">
 </a>
 
 </div>
@@ -116,8 +96,8 @@ Código, herramientas y materiales de trabajo disponibles en GitHub.
 
 <div align="center">
 
-**CIENCIA SOCIAL · DATOS · EVIDENCIA · POLÍTICAS PÚBLICAS**
+**SOCIAL SCIENCE · DATA · EVIDENCE · PUBLIC POLICY**
 
-<sub>Conoce más sobre mi trabajo en <a href="https://genarouchile.github.io/">mi sitio académico</a>.</sub>
+<sub>More about my work: <a href="https://genarouchile.github.io/">genarouchile.github.io</a></sub>
 
 </div>
