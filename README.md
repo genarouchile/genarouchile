@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/anime-banner.png" width="100%" alt="Anime banner">
-
   <h1>Genaro César Marileo Millán</h1>
   <p><strong>Sociólogo · Métodos cuantitativos · Evaluación de políticas públicas</strong></p>
   <p>
@@ -15,9 +14,20 @@
 
 ## 👋 About Me
 
+<table>
+<tr>
+<td width="60%" valign="middle">
+
 Soy sociólogo de la **Universidad de Chile**, Magíster en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
 
 Mi especialidad profesional y docente son los **métodos cuantitativos avanzados**. Mi trabajo integra análisis estadístico aplicado, investigación social y evaluación de políticas públicas, con énfasis en el análisis territorial.
+
+</td>
+<td width="40%" valign="middle" align="center">
+  <img src="https://raw.githubusercontent.com/genarouchile/genarouchile/main/about-side.jpg" width="100%" alt="Ilustración japonesa del monte Fuji, pagoda y cerezos en flor">
+</td>
+</tr>
+</table>
 
 ## 🎯 Research Areas
 
