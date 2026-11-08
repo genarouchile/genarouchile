@@ -19,9 +19,9 @@
 <tr>
 <td width="60%" valign="middle">
 
-Soy sociólogo de la **Universidad de Chile**, Magíster en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
+Soy sociólogo de la **Universidad de Chile**, Magíster y Doctor (c) en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
 
-Mi especialidad profesional y docente son los **métodos cuantitativos avanzados**. Mi trabajo integra análisis estadístico aplicado, investigación social y evaluación de políticas públicas, con énfasis en el análisis territorial.
+Mi especialidad profesional y docente son los **métodos cuantitativos avanzados**. Mi trabajo integra análisis estadístico aplicado, investigación social y evaluación de políticas públicas.
 
 </td>
 <td width="40%" valign="middle" align="center">
@@ -39,6 +39,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 - **Métodos cuantitativos:** modelamiento estadístico, análisis multivariado e inferencia causal.
 - **Econometría espacial:** autocorrelación espacial y análisis territorial.
 - **Educación:** investigación e innovación curricular.
+- **Métodos cualitativos:** allegamiento y vivienda social.
 
 ## 🎓 Academic Background
 
@@ -46,6 +47,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 - **Doctor en Sociología** — Universidad Alberto Hurtado.
 - **Magíster en Sociología** — Pontificia Universidad Católica de Chile.
+- **Doctor(c) en Sociología** — Pontificia Universidad Católica de Chile.
 - **Sociólogo** — Universidad de Chile.
 
 ## 🌱 Currently Working On
@@ -85,7 +87,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 **Research on Ageing & Care**  
 Investigación cuantitativa y territorial sobre dependencia, cuidados y personas mayores en Chile.  
-[Explorar mis repositorios →](https://github.com/genarouchile?tab=repositories)
+[Explore my repositories →](https://github.com/genarouchile?tab=repositories)
 
 **Public Policy Evaluation**  
 Diseño, implementación, indicadores y evaluación de programas y políticas públicas.  
