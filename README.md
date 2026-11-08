@@ -1,4 +1,4 @@
-<!-- Perfil de GitHub | Genaro César Marileo Millán -->
+<!-- GitHub Profile | Genaro César Marileo Millán -->
 
 <div align="center">
 
@@ -7,14 +7,14 @@
 ### SOCIÓLOGO · MÉTODOS CUANTITATIVOS · POLÍTICAS PÚBLICAS
 
 <p>
-  <a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/PORTAFOLIO_ACADÉMICO-FFBA08?style=for-the-badge&logo=quarto&logoColor=03071E" alt="Portafolio académico"></a>
+  <a href="https://genarouchile.github.io/"><img src="https://img.shields.io/badge/ACADEMIC_PORTFOLIO-FFBA08?style=for-the-badge&logo=quarto&logoColor=03071E" alt="Academic portfolio"></a>
   <a href="https://github.com/genarouchile"><img src="https://img.shields.io/badge/GITHUB-6A040F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/INVESTIGACIÓN_SOCIAL-9D0208?style=flat-square&logoColor=white" alt="Investigación social">
-  <img src="https://img.shields.io/badge/ANÁLISIS_ESTADÍSTICO-E85D04?style=flat-square&logoColor=white" alt="Análisis estadístico">
-  <img src="https://img.shields.io/badge/ANÁLISIS_TERRITORIAL-FAA307?style=flat-square&logoColor=03071E" alt="Análisis territorial">
+  <img src="https://img.shields.io/badge/SOCIAL_RESEARCH-9D0208?style=flat-square&logoColor=white" alt="Social research">
+  <img src="https://img.shields.io/badge/STATISTICAL_ANALYSIS-E85D04?style=flat-square&logoColor=white" alt="Statistical analysis">
+  <img src="https://img.shields.io/badge/SPATIAL_ANALYSIS-FAA307?style=flat-square&logoColor=03071E" alt="Spatial analysis">
 </p>
 
 </div>
@@ -25,7 +25,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## 👨‍🎓 Perfil
+## 👨‍🎓 Profile
 
 Sociólogo de la **Universidad de Chile**, Magíster en Sociología por la **Pontificia Universidad Católica de Chile** y Doctor en Sociología por la **Universidad Alberto Hurtado**.
 
@@ -34,7 +34,7 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 </td>
 <td width="42%" valign="top">
 
-## 🔎 Líneas de trabajo
+## 🔎 Research Areas
 
 - 📊 Métodos cuantitativos y modelamiento estadístico
 - 🎯 Evaluación de impacto y políticas públicas
@@ -46,18 +46,18 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 </tr>
 </table>
 
-## ⚡ Tecnologías y herramientas
+## ⚡ Tech Stack
 
 <div align="center">
 
-**ANÁLISIS Y PROGRAMACIÓN**
+**DATA ANALYSIS & PROGRAMMING**
 
 <img src="https://img.shields.io/badge/R-03071E?style=for-the-badge&logo=r&logoColor=FFBA08" alt="R">
 <img src="https://img.shields.io/badge/Python-370617?style=for-the-badge&logo=python&logoColor=FFBA08" alt="Python">
 <img src="https://img.shields.io/badge/SQL-6A040F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/SPSS-9D0208?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">
 
-**INVESTIGACIÓN Y DESARROLLO**
+**RESEARCH & DEVELOPMENT**
 
 <img src="https://img.shields.io/badge/Quarto-DC2F02?style=for-the-badge&logo=quarto&logoColor=white" alt="Quarto">
 <img src="https://img.shields.io/badge/RStudio-E85D04?style=for-the-badge&logo=posit&logoColor=03071E" alt="RStudio">
@@ -67,43 +67,43 @@ Mi especialidad profesional y docente son los **métodos cuantitativos avanzados
 
 </div>
 
-## 📌 Explora mi trabajo
+## 📌 Explore My Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Portafolio académico
+### 🌐 Academic Portfolio
 
 Investigaciones, proyectos, publicaciones, cursos y trayectoria profesional.
 
-[**Visitar genarouchile.github.io →**](https://genarouchile.github.io/)
+[**Visit genarouchile.github.io →**](https://genarouchile.github.io/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Repositorios
+### 💻 Repositories
 
 Código, herramientas y materiales de trabajo disponibles en GitHub.
 
-[**Explorar mis repositorios →**](https://github.com/genarouchile?tab=repositories)
+[**Explore my repositories →**](https://github.com/genarouchile?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-## 📈 Mi actividad
+## 📈 GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/genarouchile?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIOS-Explorar-DC2F02?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositorios">
+  <img src="https://img.shields.io/badge/REPOSITORIES-Explore-DC2F02?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
 <a href="https://github.com/genarouchile?tab=stars">
-  <img src="https://img.shields.io/badge/PROYECTOS_GUARDADOS-Ver_estrellas-9D0208?style=for-the-badge&logo=github&logoColor=white" alt="Ver estrellas">
+  <img src="https://img.shields.io/badge/STARRED_PROJECTS-View_stars-9D0208?style=for-the-badge&logo=github&logoColor=white" alt="View starred projects">
 </a>
 <a href="https://komarev.com/ghpvc/?username=genarouchile">
-  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=D00000&label=VISITAS+AL+PERFIL" alt="Visitas al perfil">
+  <img src="https://komarev.com/ghpvc/?username=genarouchile&style=for-the-badge&color=D00000&label=PROFILE+VIEWS" alt="Profile views">
 </a>
 
 </div>
